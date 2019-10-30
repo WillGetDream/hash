@@ -1,5 +1,5 @@
 //
-// Created by william shuai xiong on 10/19/19.
+// Created by william   on 10/19/19.
 //
 
 #ifndef HASH_HASH_H
